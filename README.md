@@ -3,10 +3,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyypang2&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 
-## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
-
-I am  __Pang Yee Yong__, and I work as a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -126,19 +122,13 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=yypang2&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+<div align="center"></div>
 <br />
 
 ----
